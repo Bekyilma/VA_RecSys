@@ -1,0 +1,20 @@
+main {
+  padding: 0.5em 0;
+}
+.lavender {
+  background-color: #f1f1f1;
+}
+.left, .right {
+  height: 100%;
+  margin: 0 1em;
+}
+.group {
+  margin-bottom: 1em;
+}
+textarea {
+  display: block;
+  width: 100%;
+}
+.question {
+  font-weight: bold;
+}
