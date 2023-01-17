@@ -34,6 +34,6 @@ Then open http://localhost:8080 in your browser.
 
 
 <p align="center">
-Elicitation screen in mobile mode</br><img width="200"  src="figs/webapp-elicitation-mobile_frame.png"/>  </br> </br> Recommendation screen in laptop mode <img width="900"  src="figs/webapp-ratings-laptop_frame.png"/> 
+Elicitation screen in mobile mode</br><img width="200"  src="figs/webapp-elicitation-mobile_frame.png"/>  </br> </br> Recommendation evaluation screen in laptop mode <img width="900"  src="figs/webapp-ratings-laptop_frame.png"/> 
 </p>
 
