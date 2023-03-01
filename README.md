@@ -21,7 +21,7 @@ Citation
 When you use this work or method for your research, we ask you to cite the following publication:
 
 
-[Bereket A. Yilma, Luis A. Leiva: The Elements of Visual Art Recommendation: Learning Latent Semantic Representations of Paintings, Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2023)](#)
+[Bereket A. Yilma, Luis A. Leiva: The Elements of Visual Art Recommendation: Learning Latent Semantic Representations of Paintings, Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2023)](https://orbilu.uni.lu/handle/10993/54495)
 
 ``` bibtex
 
