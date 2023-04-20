@@ -4,7 +4,7 @@
 <img width="1100"  src="figs/cover.jpg"/> 
 </p>
 
-The official implementation of "The Elements of Visual Art Recommendation: Learning Latent Semantic Representations of Paintings" [Paper](https://orbilu.uni.lu/handle/10993/54495) which will appear in the Proceedings of the ACM Conference on Human Factors in Computing Systems [(CHI 2023).](https://chi2023.acm.org/)
+The official implementation of "The Elements of Visual Art Recommendation: Learning Latent Semantic Representations of Paintings" [Paper](https://dl.acm.org/doi/10.1145/3544548.3581477) which will appear in the Proceedings of the ACM Conference on Human Factors in Computing Systems [(CHI 2023).](https://chi2023.acm.org/)
 
 <p align="center"></br>
 <img width="1100"  src="figs/header.jpg"/> 
